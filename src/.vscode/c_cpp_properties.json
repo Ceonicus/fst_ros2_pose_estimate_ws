@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/waseem/ROS/Lab_work/swarm_ros2/swarm2_ws/install/px4_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/waseem/ROS/ROS_Workspaces_client/ros2_pose_estimate_ws/src/moveit_move/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

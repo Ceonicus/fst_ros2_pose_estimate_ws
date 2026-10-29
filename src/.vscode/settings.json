@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/waseem/ROS/Lab_work/swarm_ros2/swarm2_ws/install/px4_offboard_swarm/lib/python3.10/site-packages",
+        "/home/waseem/ROS/Lab_work/swarm_ros2/swarm2_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/waseem/ROS/Lab_work/swarm_ros2/swarm2_ws/install/px4_offboard_swarm/lib/python3.10/site-packages",
+        "/home/waseem/ROS/Lab_work/swarm_ros2/swarm2_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

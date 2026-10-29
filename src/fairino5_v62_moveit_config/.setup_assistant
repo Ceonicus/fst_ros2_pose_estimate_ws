@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: fairino5_v6_description
+    relative_path: urdf/fairino5_v6_.urdf.xacro
+  srdf:
+    relative_path: config/fairino5_v6.srdf
+  package_settings:
+    author_name: waseem
+    author_email: waseemsajjad1109@gmail.com
+    generated_timestamp: 1772562459
